@@ -4,3 +4,5 @@ App criado com Android Nativo de Simulação de Partidas. Este repositório foi 
 
 1. Desenvolvimento Nativo Para Android  
      * [release/desenvolvimento-mobile-nativo-para-android](https://github.com/AndyAtonement/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
+2. Desenvolvimento das layouts de listagens e detalhes de partidas
+     * [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/AndyAtonement/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
