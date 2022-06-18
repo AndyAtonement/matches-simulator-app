@@ -1,4 +1,4 @@
-package com.andyantonement.simulator
+package com.andyantonement.simulator.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
