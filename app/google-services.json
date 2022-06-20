@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229601314363",
+    "project_id": "simulator-dio-sportheca-3fe83",
+    "storage_bucket": "simulator-dio-sportheca-3fe83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229601314363:android:7e4ef9a9be0979d1227e1e",
+        "android_client_info": {
+          "package_name": "com.andyantonement.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229601314363-b8a095cap2lna91h9bec5v3rikq48pfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rq2kNiGgSu8z_pLMmMBgqCVu8jL8MTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229601314363-b8a095cap2lna91h9bec5v3rikq48pfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
