@@ -8,3 +8,5 @@ App criado com Android Nativo de Simulação de Partidas. Este repositório foi 
      * [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/AndyAtonement/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin juntos construindo apps Android
      * [release/java-kotlin-juntos-construindo-apps-android](https://github.com/AndyAtonement/matches-simulator-app/tree/release/java-kotlin-juntos-construindo-apps-android)
+4. Explorando o Firebase para apps android resilientes
+     * [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/AndyAtonement/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
